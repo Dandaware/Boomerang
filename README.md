@@ -12,8 +12,8 @@ This repository utilizes the following/future softwares, libraries and framework
 - X64DBG
 - Ghidra
 - C Programming Language
-- Direct Linkage Libraries
+- Dynamic-linkage Library (run-time)
 - Minimal Unit Framework (MinUnit by Jera.com)
-- A similar framework to WDL by Cockos
+- SDL
 
 *Am unsure if this will work as a roadmap/plan.*
