@@ -1,7 +1,4 @@
-﻿  pch.cpp
-  dllmain.cpp
-  i3dDTH.cpp
-D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(17,46): warning C4302: 'type cast': truncation from 'intptr_t *' to 'wchar_t'
+﻿  i3dDTH.cpp
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(32,4): warning C4551: function call missing argument list
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(36,13): warning C4002: too many arguments for function-like macro invocation 'TEXT'
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(36,13): warning C4473: 'wprintf' : not enough arguments passed for format string
@@ -11,6 +8,5 @@ D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(64,1): warning
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(64,1): warning C4473: 'wprintf' : not enough arguments passed for format string
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(64,1): message : placeholders and their parameters expect 4 variadic arguments, but 0 were provided
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(64,1): message : the missing variadic argument 1 is required by format string '%08X'
-  Generating Code...
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(86,51): warning C4312: 'type cast': conversion from 'unsigned int' to 'unsigned char *' of greater size
   IronDTH.vcxproj -> D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\x64\Debug\IronDTH.dll

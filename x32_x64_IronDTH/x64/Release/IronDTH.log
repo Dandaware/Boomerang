@@ -1,7 +1,4 @@
-﻿  pch.cpp
-  dllmain.cpp
-  i3dDTH.cpp
-D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(17,46): warning C4302: 'type cast': truncation from 'intptr_t *' to 'wchar_t'
+﻿  i3dDTH.cpp
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(32,4): warning C4551: function call missing argument list
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(36,13): warning C4002: too many arguments for function-like macro invocation 'TEXT'
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(36,13): warning C4473: 'wprintf' : not enough arguments passed for format string
@@ -13,7 +10,8 @@ D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(64,1): message
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(64,1): message : the missing variadic argument 1 is required by format string '%08X'
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(86,51): warning C4312: 'type cast': conversion from 'unsigned int' to 'unsigned char *' of greater size
   Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  0 of 2 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   IronDTH.vcxproj -> D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\x64\Release\IronDTH.dll
