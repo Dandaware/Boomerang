@@ -9,6 +9,7 @@ Currently reverse engineering the Iron3D.exe file with x64dbg and Ghidra. (Time 
 
 This repository utilizes the following/future softwares, libraries and frameworks:
 - Parkan: Iron Strategy (GOG - PC)
+- Radare2
 - X64DBG
 - Ghidra
 - C Programming Language
