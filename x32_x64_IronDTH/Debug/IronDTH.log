@@ -1,4 +1,7 @@
-﻿  i3dDTH.cpp
+﻿  pch.cpp
+  dllmain.cpp
+  filesafesystem.cpp
+  i3dDTH.cpp
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(34,4): warning C4551: function call missing argument list
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(38,13): warning C4002: too many arguments for function-like macro invocation 'TEXT'
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(38,13): warning C4473: 'wprintf' : not enough arguments passed for format string
@@ -19,4 +22,6 @@ D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(104,1): messag
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(104,1): message : the missing variadic argument 8 is required by format string '%04X'
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(138,1): warning C4473: 'printf' : not enough arguments passed for format string
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(138,1): message : placeholders and their parameters expect 4 variadic arguments, but 0 were provided
+  Generating Code...
 D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(138,1): message : the missing variadic argument 1 is required by format string '%x'
+  IronDTH.vcxproj -> D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\Debug\IronDTH.dll
