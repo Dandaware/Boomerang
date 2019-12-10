@@ -12,9 +12,7 @@ This repository utilizes the following/future softwares, libraries and framework
 - Radare2
 - X64DBG
 - Ghidra
-- C Programming Language
+- C++ Programming Language
 - Dynamic-linkage Library (run-time)
-- Minimal Unit Framework (MinUnit by Jera.com)
-- SDL
 
 *Am unsure if this will work as a roadmap/plan.*
