@@ -1,0 +1,28 @@
+﻿  i3dDTH.cpp
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(27,6): error C2065: 'handleProcessSnap': undeclared identifier
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(31,23): error C2065: 'handleProcessSnap': undeclared identifier
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(32,4): warning C4551: function call missing argument list
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(36,13): warning C4002: too many arguments for function-like macro invocation 'TEXT'
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(36,13): warning C4473: 'wprintf' : not enough arguments passed for format string
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(36,13): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(36,13): message : the missing variadic argument 1 is required by format string '%s'
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(68,26): error C2065: 'handleProcessSnap': undeclared identifier
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(108,29): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(108,29): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(102,1): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'WCHAR *'
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(102,1): message : consider using '%ls' in the format string
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(102,1): message : consider using '%lls' in the format string
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(102,1): message : consider using '%Ls' in the format string
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(102,1): message : consider using '%ws' in the format string
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(102,1): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'WCHAR *'
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(102,1): message : consider using '%ls' in the format string
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(102,1): message : consider using '%lls' in the format string
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(102,1): message : consider using '%Ls' in the format string
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(102,1): message : consider using '%ws' in the format string
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(102,1): warning C4473: 'printf' : not enough arguments passed for format string
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(102,1): message : placeholders and their parameters expect 11 variadic arguments, but 7 were provided
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(102,1): message : the missing variadic argument 8 is required by format string '%04X'
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(136,1): warning C4473: 'printf' : not enough arguments passed for format string
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(136,1): message : placeholders and their parameters expect 4 variadic arguments, but 0 were provided
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(136,1): message : the missing variadic argument 1 is required by format string '%x'
+D:\Users\Daniel\Projectspace\iso_cpp\iron_opti\IronDTH\i3dDTH.cpp(147,51): warning C4312: 'type cast': conversion from 'unsigned int' to 'unsigned char *' of greater size

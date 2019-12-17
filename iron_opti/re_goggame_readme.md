@@ -1,0 +1,1 @@
+goggame-[?].dll utilizes the KERNEL32.dll which is the same library employed in the iron3d.dll and both have a IMAGE_DOS_HEADER file associated with them.
