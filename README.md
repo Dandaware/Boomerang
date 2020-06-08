@@ -1,3 +1,4 @@
+# *PROJECT DISCONTINUED*
 # Boomerang
 Boomerang for Parkan: Iron Strategy - an Open Source Project to reverse engineer and revive the Parkan: Iron Strategy video game for PC, via the GOG (DRM-free) copy. Work still privately in progress.
 Currently reverse engineering the Iron3D.exe file with x64dbg and Ghidra. (Time of completion: Indefinite)
